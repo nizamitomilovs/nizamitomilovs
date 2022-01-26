@@ -2,7 +2,7 @@
 
 ## Developer who likes new challenges:
 - 🌱 Always learning something new
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
