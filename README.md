@@ -14,14 +14,14 @@
 ### My recent projects
 
 
-<li>Making an article website with composer<br>
-  https://github.com/Nizami00/codelex-blog</li>
+<li>Laravel Vue SPA<br>
+  https://github.com/nizamitomilovs/spa</li>
 
 <li>Video Game Website using IGDB API<br>
-  https://github.com/Nizami00/video-game_aggregator</li>
+  https://github.com/nizamitomilovs/video-game-aggregator</li>
 
-<li>Make use of Yahoo Api<br>
-  https://github.com/Nizami00/yahooapi</li>
+<li>wallet for banking<br>
+  https://github.com/nizamitomilovs/wallet-bank</li>
 
 
 <br />
